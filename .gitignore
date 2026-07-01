@@ -12,3 +12,12 @@ models/
 
 # Virtual environments
 .venv
+
+# Secrets / env
+.env
+.env.*
+.streamlit/secrets.toml
+
+# OS / editor / notebooks
+.DS_Store
+.ipynb_checkpoints/
